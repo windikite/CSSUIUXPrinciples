@@ -6,7 +6,7 @@ There are two wireframes that show both the mobile and desktop versions of the r
 
 ![website preview](https://raw.githubusercontent.com/Windikite/CSSUIUXPrinciples/master/Frame3.png)
 
-![website preview](https://raw.githubusercontent.com/Windikite/CSSUIUXPrinciples/master/Frame2.png)
+![website preview](https://raw.githubusercontent.com/Windikite/CSSUIUXPrinciples/master/Frame4.png)
 
 ![website preview](https://raw.githubusercontent.com/Windikite/CSSUIUXPrinciples/master/Frame1.png)
 
